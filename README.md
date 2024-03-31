@@ -6,7 +6,7 @@ This repository implements Random Forest classification to predict the quality o
 ## Dataset
 This project utilizes the Red Wine Quality dataset from the UCI Machine Learning Repository. It contains physicochemical properties of red wine samples along with their quality ratings.\
 \
-**Source**: UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)\
+**Source**: UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality) \
 **Description**: Physicochemical properties of Portuguese "Vinho Verde" red wine samples and their quality ratings.\
 **Input variables** (11): Fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol.\
 **Output variable** (1): Quality score (0-10).
